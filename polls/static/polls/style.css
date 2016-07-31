@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+li a {
+	color: green;
+}
+
+body {
+	background: white url("images/background.png") repeat right bottom;
+}
